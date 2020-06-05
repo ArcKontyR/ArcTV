@@ -34,7 +34,11 @@ namespace ArcTV
                 pbSwitch.Image = Properties.Resources.on;
                 pbTV.Image = Properties.Resources.TVOn;
                 lblChannel.BackColor = Color.White;
+                lblChannel.ForeColor = Color.Black;
                 lblChannel.Text = TelVis.ChannelSelect(TelVis.currentChannel);
+                lblNext.Enabled = true;
+                lblPrevious.Enabled = true;
+                tbChannelSelect_TextChanged(sender, e);
             } else
             if (TelVis.switchOn == true)
             {
@@ -43,7 +47,10 @@ namespace ArcTV
                 pbSwitch.Image = Properties.Resources.off;
                 pbTV.Image = Properties.Resources.TVOff;
                 lblChannel.BackColor = Color.Black;
+                lblChannel.ForeColor = Color.Black;
                 lblChannel.Text = TelVis.ChannelSelect(TelVis.currentChannel);
+                lblNext.Enabled = false;
+                lblPrevious.Enabled = false;
             }
         }
 

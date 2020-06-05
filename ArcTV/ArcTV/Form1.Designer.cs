@@ -67,6 +67,7 @@
             this.lblPrevious.AutoSize = true;
             this.lblPrevious.BackColor = System.Drawing.Color.Black;
             this.lblPrevious.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lblPrevious.Enabled = false;
             this.lblPrevious.Location = new System.Drawing.Point(121, 307);
             this.lblPrevious.Name = "lblPrevious";
             this.lblPrevious.Size = new System.Drawing.Size(22, 22);
@@ -79,6 +80,7 @@
             this.lblNext.AutoSize = true;
             this.lblNext.BackColor = System.Drawing.Color.Black;
             this.lblNext.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lblNext.Enabled = false;
             this.lblNext.Location = new System.Drawing.Point(225, 307);
             this.lblNext.Name = "lblNext";
             this.lblNext.Size = new System.Drawing.Size(22, 22);
