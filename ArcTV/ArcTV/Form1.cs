@@ -51,12 +51,14 @@ namespace ArcTV
         {
             TelVis.NextChannel();
             lblChannel.Text = TelVis.ChannelSelect(TelVis.currentChannel);
+            tbChannelSelect.Text = TelVis.currentChannel.ToString();
         }
 
         private void lblPrevious_Click(object sender, EventArgs e)
         {
             TelVis.PreviousChannel();
             lblChannel.Text = TelVis.ChannelSelect(TelVis.currentChannel);
+            tbChannelSelect.Text = TelVis.currentChannel.ToString();
         }
 
         private void tbChannelSelect_TextChanged(object sender, EventArgs e)
