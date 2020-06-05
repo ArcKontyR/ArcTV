@@ -1,0 +1,10 @@
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\bin\Debug\ArcTV.exe.config
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\bin\Debug\ArcTV.exe
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\bin\Debug\ArcTV.pdb
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.csprojAssemblyReference.cache
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.TV.resources
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.Properties.Resources.resources
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.csproj.GenerateResource.cache
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.csproj.CoreCompileInputs.cache
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.exe
+C:\Users\creep\Desktop\учеба\программирование\ArcTV\ArcTV\obj\Debug\ArcTV.pdb
